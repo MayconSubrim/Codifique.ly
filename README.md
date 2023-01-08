@@ -1,5 +1,5 @@
 # Codifique.ly
-Chalange da Alura, um codificador e decodificador de texto com JS
+Chalange da Alura, um codificador e decodificador de texto com JS, acesse o projeto no link: https://mayconsubrim.github.io/Codifique.ly/
 
 <h1>Tecnologias usadas: </h1>
 <br>
