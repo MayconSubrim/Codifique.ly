@@ -9,10 +9,15 @@ body{
     background-color: #F3F5FC;
 }
 
+#icone{
+    font-size: 50px;
+    color: #495057;
+}
+
 
 .containermain{
     display: flex;
-    justify-content: space-evenly
+    justify-content: space-evenly;
 }
 
 .form-control{
