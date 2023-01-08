@@ -83,3 +83,28 @@ h4 span{
     transition: all 0.3s;
 }
 
+
+@media screen and (max-width: 840px) {
+
+    .containersecun{
+        margin-top: 1.5rem;
+        width: 90vw !important;
+    }
+
+    .containermain{
+        width: 100vw !important;
+        align-items: center !important;
+        justify-content: center !important;
+        flex-wrap: wrap !important;
+        margin: 0 !important;
+    }
+
+
+    .form-control{
+        width: 90vw !important;
+    }
+
+    .father{
+        width: 90% !important;
+    }
+}
