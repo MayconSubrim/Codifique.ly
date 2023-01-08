@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F3F5FC;
+}
+
+
+.containermain{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.form-control{
+    min-height: 725px !important;
+    border-radius: 32px;
+    resize: none !important;
+    padding: 1rem 0 0 1rem;
+    font-size: 20px;
+    
+}
+
+.father{
+    width: 50vw !important;
+    display: block;
+}
+
+.containersecun{
+    width: 400px;
+    height: 940px;
+    max-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 32px;
+    background-color: #fff;
+}
+
+h4{
+    font-size: 24px;
+    width: 300px;
+}
+
+h4 span{
+    font-size: 16px;
+}
+
+.notview{
+    display: none;
+    width: 400px;
+}
+
+.semborda{
+    min-width: 300px;
+    min-height: 600px;
+    resize: none;
+}
+
+
+.copiar{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#paragrafro{
+    min-width: 320px;
+}
+
+#copiar:hover{
+    background-color: #0d6efd;
+    color: #fff;
+    transition: all 0.3s;
+}
+
